@@ -6,9 +6,12 @@ Excel to Java Object Conversion: Transform Excel data into Java objects for easy
 MongoDB Storage: Store the parsed data in MongoDB collections.
 Configurable Mapping: Customize the mapping between Excel columns and Java object fields.
 Spring Boot Application: Build and run as a standalone Spring Boot application.
+
 Requirements
 
 Java 8 or higher
+
 Apache Maven
+
 MongoDB installed and running
 
